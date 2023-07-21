@@ -363,7 +363,7 @@ body {
 }
 
 .customers-item-icon {
-  fill: currentColor;
+  color: currentColor;
 }
 
 .footer {

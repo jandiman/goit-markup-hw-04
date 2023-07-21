@@ -362,10 +362,6 @@ body {
   color: var(--ocean);
 }
 
-.customers-item-icon {
-  fill: currentColor;
-}
-
 .footer {
   background: var(--navyblue, #2e2f42);
   padding: 100px 0;

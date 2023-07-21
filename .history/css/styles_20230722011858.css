@@ -348,7 +348,7 @@ body {
   width: 168px;
   height: 88px;
   flex-shrink: 0;
-  color: var(--light-slate);
+  color: var(--light-slate)
   border-radius: 4px;
   border: 1px solid var(--lightslate, #8e8f99);
   display: flex;
@@ -356,15 +356,7 @@ body {
   align-items: center;
 }
 
-.customers-item-card:hover,
-.customers-item-card:focus {
-  border: 1px solid var(--ocean);
-  color: var(--ocean);
-}
-
-.customers-item-icon {
-  fill: currentColor;
-}
+.customers-item-card:hover
 
 .footer {
   background: var(--navyblue, #2e2f42);
